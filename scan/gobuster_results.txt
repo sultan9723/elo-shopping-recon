@@ -1,0 +1,5 @@
+/.xml                [32m (Status: 200)[0m [Size: 827309]
+/.json               [32m (Status: 200)[0m [Size: 827310]
+/checkouts           [33m (Status: 404)[0m [Size: 9]
+/.sitemap.xml        [33m (Status: 404)[0m [Size: 0]
+/cdn-cgi             [33m (Status: 404)[0m [Size: 0]
