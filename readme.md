@@ -1,3 +1,7 @@
+![License](https://img.shields.io/github/license/sultan9723/elo-shopping-recon)
+![Last Commit](https://img.shields.io/github/last-commit/sultan9723/elo-shopping-recon)
+![Issues](https://img.shields.io/github/issues/sultan9723/elo-shopping-recon)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 # 🛡️ ELO Shopping Recon Tool
 
 **ELO Shopping Recon** is an automated cybersecurity reconnaissance tool that scans websites to find security weaknesses. It performs the following tasks:
