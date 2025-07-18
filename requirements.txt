@@ -1,0 +1,6 @@
+requests
+beutifulsoup4
+lxml
+
+python-nmap
+colorama
